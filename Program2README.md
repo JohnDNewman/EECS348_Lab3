@@ -1,0 +1,41 @@
+Enter score: 25
+Possible combinations:
+0 TD, 0 FG, 1 Safety, 2 TD + 2pt, 1 TD + FG
+1 TD, 1 FG, 0 Safety, 2 TD + 2pt, 0 TD + FG
+0 TD, 3 FG, 0 Safety, 2 TD + 2pt, 0 TD + FG
+0 TD, 1 FG, 3 Safety, 2 TD + 2pt, 0 TD + FG
+0 TD, 1 FG, 0 Safety, 1 TD + 2pt, 2 TD + FG
+1 TD, 0 FG, 2 Safety, 1 TD + 2pt, 1 TD + FG
+0 TD, 2 FG, 2 Safety, 1 TD + 2pt, 1 TD + FG
+0 TD, 0 FG, 5 Safety, 1 TD + 2pt, 1 TD + FG
+2 TD, 1 FG, 1 Safety, 1 TD + 2pt, 0 TD + FG
+1 TD, 3 FG, 1 Safety, 1 TD + 2pt, 0 TD + FG
+1 TD, 1 FG, 4 Safety, 1 TD + 2pt, 0 TD + FG
+0 TD, 5 FG, 1 Safety, 1 TD + 2pt, 0 TD + FG
+0 TD, 3 FG, 4 Safety, 1 TD + 2pt, 0 TD + FG
+0 TD, 1 FG, 7 Safety, 1 TD + 2pt, 0 TD + FG
+0 TD, 0 FG, 2 Safety, 0 TD + 2pt, 3 TD + FG
+1 TD, 1 FG, 1 Safety, 0 TD + 2pt, 2 TD + FG
+0 TD, 3 FG, 1 Safety, 0 TD + 2pt, 2 TD + FG
+0 TD, 1 FG, 4 Safety, 0 TD + 2pt, 2 TD + FG
+3 TD, 0 FG, 0 Safety, 0 TD + 2pt, 1 TD + FG
+2 TD, 2 FG, 0 Safety, 0 TD + 2pt, 1 TD + FG
+2 TD, 0 FG, 3 Safety, 0 TD + 2pt, 1 TD + FG
+1 TD, 4 FG, 0 Safety, 0 TD + 2pt, 1 TD + FG
+1 TD, 2 FG, 3 Safety, 0 TD + 2pt, 1 TD + FG
+1 TD, 0 FG, 6 Safety, 0 TD + 2pt, 1 TD + FG
+0 TD, 6 FG, 0 Safety, 0 TD + 2pt, 1 TD + FG
+0 TD, 4 FG, 3 Safety, 0 TD + 2pt, 1 TD + FG
+0 TD, 2 FG, 6 Safety, 0 TD + 2pt, 1 TD + FG
+0 TD, 0 FG, 9 Safety, 0 TD + 2pt, 1 TD + FG
+3 TD, 1 FG, 2 Safety, 0 TD + 2pt, 0 TD + FG
+2 TD, 3 FG, 2 Safety, 0 TD + 2pt, 0 TD + FG
+2 TD, 1 FG, 5 Safety, 0 TD + 2pt, 0 TD + FG
+1 TD, 5 FG, 2 Safety, 0 TD + 2pt, 0 TD + FG
+1 TD, 3 FG, 5 Safety, 0 TD + 2pt, 0 TD + FG
+1 TD, 1 FG, 8 Safety, 0 TD + 2pt, 0 TD + FG
+0 TD, 7 FG, 2 Safety, 0 TD + 2pt, 0 TD + FG
+0 TD, 5 FG, 5 Safety, 0 TD + 2pt, 0 TD + FG
+0 TD, 3 FG, 8 Safety, 0 TD + 2pt, 0 TD + FG
+0 TD, 1 FG, 11 Safety, 0 TD + 2pt, 0 TD + FG
+Enter score: 
